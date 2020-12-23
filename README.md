@@ -1,4 +1,4 @@
-## How to analyze uncertainty? 
+## How to Analyze Uncertainty? 
 
 ### Interesting salary trends on Stack Overflows Annual Survey 2020
 

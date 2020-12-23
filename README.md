@@ -1,6 +1,6 @@
 ## How to analyze uncertainty? 
 
-### Interesting salary trends on Stack Overflows survey 2020
+### Interesting salary trends on Stack Overflows Annual Survey 2020
 
 When you are solving what is the average salary for a developer type you’ll cross with this observation: Dataset has 23 different developer categories but this is a multiple-choice question so respondents can choose all that applies. This means for example that one respondent can have many developer types listed. There were 8269 different answer types (23 categories + 8264 different combinations of those categories). So how can you exactly tell, which salary is meant for each developer type?
 

@@ -6,15 +6,27 @@ When you are solving what is the average salary for a developer type you’ll cr
 
 Stack Overflow makes an Annual Developer Survey to their developer community. In 2020 with nearly 65,000 responses fielded from over 180 countries, their survey examines all aspects of the developer experience from technologies to education and salary levels.
 
-In this notebook I will be exploring the 2020 Stack Overflow public survey. My study question will we be focused on technologies (languages), developer types salary and education. Main target group are those developers who describe them as professionals.
-
 During the exploring phase I noticed interesting things in when respondents gave their answers for salary. This observation led me to examine salary question more deeply. 
+
+### Installation
+This project uses a Jupyter Notebook running Python 3.* with the libraries numpy, pandas, matplotlib and seaborn. These can be installed using pip and they should be included in the Anaconda distribution of Python.
+
+
+### Project Motivation
+
+In this notebook I will be exploring the 2020 Stack Overflow public survey. My study question will we be focused on technologies (languages), developer types salary and education. Main target group are those developers who describe them as professionals.
 
 There will be three study questions:
 
 - What are the most common languages used by professionals?
 - What is the average salary for each developer type?
 - How does education compare to salary?
+
+### File Description
+
+Project includes readme.md file and Stack Overflow Survey 2020.ipynb file. 
+Dataset you can find here:
+[Stack Overflow Annual Developer Survey ](https://insights.stackoverflow.com/survey)
 
 ## Author
 Vesa Jaakola

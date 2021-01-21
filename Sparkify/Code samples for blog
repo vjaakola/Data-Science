@@ -1,0 +1,7 @@
+df.createOrReplaceTempView("sample")
+df =spark.sql("""select * from sample s1
+inner join (
+select distinct userId as uniq_id from sample order by uniq_id limit 1000) s2
+on s1.userId= s2.uniq_id""").drop("uniq_id")
+
+# the limit number above can be anything, in this case the 12GB dataset had 22 277 unique userId's and limit number is 1000

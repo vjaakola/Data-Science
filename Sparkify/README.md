@@ -21,6 +21,8 @@ The dataset contains user activity logs between two months, October and November
 
 ## 4. Files
 
+The main commented notebook is Sparkify_AWS_EMR.
+
 1. Sparkify_ETL_EDA
 Includes the exploratory data analysis (EDA) and extract, transform and load (ETL) process. Processed in the AWS EMR cluster, includes charts made with Databricks.
 

@@ -31,3 +31,7 @@ Exploratory Data Analysis (EDA) and ETL with AWS EMR cluster. Includes features 
 
 3. Sparkify_AWS_EMR
 The whole process including ETL, EDA, feature engineering, machine learning models and conclusions. Processed in AWS EMR cluster.
+
+## 5. Results
+
+Three models were built: Logistic Regression Classifier, Random Forest Classifier, and Gradient Boosted Tree Classifier. As we evaluated the models with Cross-Validation and fine-tuned hyperparameters, we find out the best model. The best model was Random Forest Classifier with metrics F1-score 0.765, accuracy 0.769, areaUnderROC: 82.94%.

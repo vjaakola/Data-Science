@@ -37,4 +37,5 @@ The whole process including ETL, EDA, feature engineering, machine learning mode
 Three models were built: Logistic Regression Classifier, Random Forest Classifier, and Gradient Boosted Tree Classifier. As we evaluated the models with Cross-Validation and fine-tuned hyperparameters, we find out the best model. 
 
 The best model was:
+
 Random Forest Classifier with metrics F1-score 0.765, accuracy 0.769, areaUnderROC: 82.94%.

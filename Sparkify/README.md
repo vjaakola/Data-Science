@@ -39,3 +39,6 @@ Three models were built: Logistic Regression Classifier, Random Forest Classifie
 The best model was:
 
 Random Forest Classifier with metrics F1-score 0.765, accuracy 0.769, areaUnderROC: 82.94%.
+
+## Acknowledgements
+Must give credit to Udacity for providing motivation, big data, and an excellent hands-on project.
